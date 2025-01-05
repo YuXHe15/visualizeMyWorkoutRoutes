@@ -1,0 +1,10 @@
+[visualization]
+line_width = 1.5
+line_color = [157, 250, 0]
+background_color = [59, 59, 59]
+grid_size = 20
+output_file = "tracks_visualization.png"
+
+[paths]
+gpx_folder = "/path/to/your/gpx/files"
+output_file = "/path/to/output/tracks_visualization.png"
